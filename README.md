@@ -22,7 +22,7 @@ Debido a la diversidad en la naturaleza de los datos, apliqué diferentes metodo
 * **Variables Dicotómicas / Binarias:** Correlación **Punto Biserial** para medir el impacto de comportamientos específicos (ej. si cuenta con membresía activa o no) sobre el ingreso.
 * **Variables Categóricas:** Coeficiente **V de Cramér** para evaluar asociaciones cualitativas mediante tablas de contingencia.
 * **Visualización Avanzada:** Matrices de correlación (*Heatmaps*) y gráficos de dispersión (*Scatterplots*) automatizados.
-![Matriz de Correlación](heatmap.png)
+![Matriz de Correlación](<img width="920" height="691" alt="image" src="https://github.com/user-attachments/assets/c2ede4ed-a852-4501-adc3-fcbdbf079937" />)
 
 ---
 
