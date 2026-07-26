@@ -7,7 +7,7 @@ En el entorno altamente competitivo del comercio electrónico, entender qué mot
 
 ---
 ## 📂 2. Datasets Analizado 
-**Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'**
+***Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'***
 ---
 ## 📊 3 Exploración y Preparación de Datos
 
