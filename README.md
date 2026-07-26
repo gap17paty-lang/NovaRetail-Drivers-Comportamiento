@@ -4,17 +4,29 @@
 En el entorno altamente competitivo del comercio electrónico, entender qué motiva el gasto de los usuarios es fundamental para diseñar estrategias de retención eficientes. Este proyecto analiza el comportamiento de millones de usuarios de la plataforma **NovaRetail+**, integrando variables demográficas, hábitos de navegación y rendimiento económico.
 
 El objetivo principal es identificar qué factores o comportamientos están más fuertemente asociados con el ingreso anual generado por los clientes, permitiendo a la dirección tomar decisiones comerciales respaldadas por evidencia estadística sólida y evitar interpretaciones causales engañosas.
+---
+## 📂 2. Datasets Analizado 
+* **Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
+---
+## 📊 3 Exploración y Preparación de Datos
+
+En esta fase, realicé un diagnóstico integral del conjunto de datos para garantizar su idoneidad antes del análisis exploratorio profundo:
+
+* **Auditoría de Dimensiones:** Inspeccioné la estructura base de la información, validando el número total de registros y columnas disponibles.
+* **Control de Calidad:** Verifiqué la integridad del dataset, confirmando la ausencia de valores nulos o faltantes en todas las variables.
+* **Clasificación de Variables:** Identifiqué y segmenté los datos según su tipo en variables numéricas, binarias y categóricas.
+* **Análisis Estadístico Inicial:** Apliqué estadística descriptiva sobre las variables numéricas para entender su distribución, tendencias centrales y dispersión inicial.
 
 ---
 
-## 💡 2. Preguntas Clave del Negocio
+## 💡 4. Preguntas Clave del Negocio
 * ¿Existe una relación real entre la edad o los niveles de ingresos declarados por el cliente con su nivel de gasto final?
 * ¿Qué métricas de comportamiento dentro de la plataforma (clics, tiempo de navegación, recurrencia) son los verdaderos "drivers" del valor económico?
 * ¿Cómo podemos segmentar eficazmente a la audiencia para optimizar las campañas de marketing sin desperdiciar recursos?
 
 ---
 
-## 🛠️ 3. Tecnologías y Metodologías Estadísticas Utilizadas
+## 🛠️ 5. Tecnologías y Metodologías Estadísticas Utilizadas
 Para este análisis de extremo a extremo en **Jupyter Notebook**, utilicé un flujo de trabajo híbrido con las siguientes librerías de **Python**: `Pandas`, `NumPy`, `Matplotlib` y `Seaborn`.
 
 Debido a la diversidad en la naturaleza de los datos, apliqué diferentes metodologías analíticas y coeficientes estadísticos específicos:
@@ -26,13 +38,13 @@ Debido a la diversidad en la naturaleza de los datos, apliqué diferentes metodo
 
 ---
 
-## 📊 4. Hallazgos Principales e Impacto Operativo
+## 📊 6. Hallazgos Principales e Impacto Operativo
 * **Mito Desmentido:** Tras el análisis correlacional, se descubrió que los factores demográficos tradicionales (como la edad y el ingreso base del cliente) mostraron una **correlación cercana a cero** con el gasto real en la plataforma. Esto demostró que las campañas enfocadas únicamente en la edad no eran eficientes.
 * **El Verdadero Driver:** Los comportamientos transaccionales internos y la frecuencia de interacción digital mostraron los coeficientes más altos de asociación con el valor económico total.
 * **Enfoque en el Negocio:** Al identificar estas correlaciones reales, la dirección pudo reorientar su estrategia de segmentación, pasando de un enfoque demográfico tradicional a un modelo basado puramente en el comportamiento del usuario.
 
 ---
 
-## 📦 5. Estructura del Repositorio y Entregables
+## 📦 6. Estructura del Repositorio y Entregables
 * `NovaRetail_Analisis_Drivers.ipynb`: Libreta principal en Jupyter Notebook con todo el código documentado, limpio y reproducible.
 * `README.md`: Explicación del proyecto orientada al negocio.
