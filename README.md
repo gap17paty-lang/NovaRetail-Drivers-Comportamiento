@@ -3,7 +3,7 @@
 ## 📌 1. Introducción y Contexto del Negocio
 En el entorno altamente competitivo del comercio electrónico, entender qué motiva el gasto de los usuarios es fundamental para diseñar estrategias de retención eficientes. Este proyecto analiza el comportamiento de millones de usuarios de la plataforma **NovaRetail+**, integrando variables demográficas, hábitos de navegación y rendimiento económico.
 
-El objetivo principal es identificar qué factores o comportamientos están más fuertemente asociados con el ingreso anual generado por los clientes, permitiendo a la dirección tomar decisiones comerciales respaldadas por evidencia estadística sólida y evitar interpretaciones causales engañosas.
+**El objetivo principal es identificar qué factores o comportamientos están más fuertemente asociados con el ingreso anual generado por los clientes, permitiendo a la dirección tomar decisiones comerciales respaldadas por evidencia estadística sólida y evitar interpretaciones causales engañosas.**
 ---
 ## 📂 2. Datasets Analizado 
 * **Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'
