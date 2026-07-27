@@ -9,7 +9,7 @@ En el entorno altamente competitivo del comercio electrónico, entender qué mot
 ## 📂 2. Datasets Analizado 
 * **Nombre: '/datasets/novaretail_comportamiento_clientes_2024.csv'**
 ---
-## 📊 3 Exploración y Preparación de Datos
+## 📊 3. Exploración y Preparación de Datos
 
 En esta fase, realicé un diagnóstico integral del conjunto de datos para garantizar su idoneidad antes del análisis exploratorio profundo:
 
