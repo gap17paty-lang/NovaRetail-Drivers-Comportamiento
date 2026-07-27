@@ -63,7 +63,7 @@ El análisis se estructuró bajo la metodología estadística y de negocio **C+F
 
 ---
 
-## ⚠️ Limitaciones y Próximos Pasos
+##  Limitaciones y Próximos Pasos 
 
 ### Limitaciones del Proyecto
 1. **Correlación no implica causalidad:** El estudio identifica variables que se mueven juntas, pero no garantiza que alterar una variable (como forzar visitas) incremente los ingresos automáticamente.
